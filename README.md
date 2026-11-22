@@ -1,6 +1,6 @@
-# AlphaCO: Two-Dimensional Guillotine Bin Packing
+# EpicCO: Two-Dimensional Guillotine Bin Packing
 
-The solver that [AlphaCO](https://github.com/ZHANG-NI/AlphaCO) produced for the two-dimensional guillotine bin packing problem, starting from GDRR (J. Gardeyn and T. Wauters, European Journal of Operational Research, 2022; https://github.com/JeroenGar/gdrr-2bp).
+The solver that [EpicCO](https://github.com/ZHANG-NI/EpicCO) produced for the two-dimensional guillotine bin packing problem, starting from GDRR (J. Gardeyn and T. Wauters, European Journal of Operational Research, 2022; https://github.com/JeroenGar/gdrr-2bp).
 
 ## Run
 
